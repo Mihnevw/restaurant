@@ -1,0 +1,52 @@
+/* Задава бял цвят за текстовете на навигацията */
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+/* Промяна на цвета при задържане на курсора върху линковете */
+.navbar-nav .nav-link:hover {
+    color: #ccc !important;
+}
+
+/* Бутоните на навигацията ще се виждат дори при тъмен фон */
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* За да се види бутонът за мобилната навигация */
+.navbar-toggler {
+    color: white;
+    border-color: white;
+}
+
+.mb-4 {
+    color: orange;
+}
+
+.ps-4 h6 {
+    color: orange;
+}
+
+.col-lg-6 p {
+    color: white;
+}
+
+.mb-5 {
+    color: white;
+}
+
+span {
+    color: orange;
+}
+
+small .text-body{
+    color: orange;
+}
+
+h6 {
+    color: white;
+}
+
+a {
+    color: orange;
+}
